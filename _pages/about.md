@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), honorably advised by Prof. [Jiaxin Huang](https://teapot123.github.io/). Previsouly, I received my Master degree in Computer Science in University of Southern California (USC). Prior to USC, I received my Bachelor degree in Physics in Sichuan University.
+Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), advised by Prof. Jiaxin Huang. Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University.
 
 # Research Interests
 
@@ -20,13 +20,13 @@ My research interests broadly include Natural Language Processing (NLP) and Mach
 
 - 2025.05
   &nbsp;- 🎓 Awarded the M.S. in Computer Science by University of Southern California.  
-  &emsp;&emsp;&emsp;&emsp;&emsp;- 🎉 One paper [“ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework”](https://arxiv.org/abs/2410.19453) is accepted by ACL 2025.
+  &emsp;&emsp;&emsp;&emsp;&emsp;- 🎉 One paper [“ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework”](https://arxiv.org/abs/2410.19453) is accepted to ACL 2025.
 
 - 2025.01
-  &nbsp;- 🎉 One paper ["BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment"](https://arxiv.org/abs/2411.10914) is accepted by NAACL 2025.
+  &nbsp;- 🎉 One paper ["BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment"](https://arxiv.org/abs/2411.10914) is accepted to NAACL 2025.
 
 - 2024.05
-  &nbsp;- 🎉 One paper ["Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning"](https://arxiv.org/abs/2403.20046) is accepted by ACL 2024.
+  &nbsp;- 🎉 One paper ["Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning"](https://arxiv.org/abs/2403.20046) is accepted to ACL 2024.
 
 # 📖 Education
 
