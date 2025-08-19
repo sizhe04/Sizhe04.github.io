@@ -7,9 +7,15 @@
 # server process.
 
 # Basic Site Settings
+
+# Local
+# bundle install
+# bundle exec jekyll serve -l -H localhost
+# http://localhost:4000
+
 locale: "en-US"
 site_theme: "default"
-title: "Your Name / Site Title"
+title: "Sizhe Wang"
 title_separator: "-"
 name: &name "Sizhe Wang"
 description: &description "personal description"
@@ -22,22 +28,22 @@ repository: "Sizhe04/github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "Your Sidebar Name"
+  avatar: "Homepage.JPEG"
+  name: "Sizhe Wang"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
-  location: "Earth"
-  employer: "Red Brick University"
+  bio: "PhD student at Washington University in St. Louis."
+  location: "St. Louis, MO"
+  employer: "WashU"
   uri: # URL
-  email: "none@example.org"
+  email: "sizhew@wustl.edu"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?user=SMzOrvMAAAAJ&hl=en"
   impactstory: # URL
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid:
   semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed:
   researchgate: # URL
   scopus: # URL
 
@@ -45,12 +51,12 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github:
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
@@ -59,7 +65,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: https://www.linkedin.com/in/sizhe04/
   mastodon: # URL
   medium: # URL
   pinterest: # Username

@@ -1,18 +1,61 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications (* denotes equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+{% assign publications = site.publications | sort: 'date' | reverse %}
+{% assign current_year = '' %}
+{% for pub in publications %}
+  {% assign year = pub.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% if current_year != '' %}
+    </ol>
+    {% endif %}
+    <h2>{{ year }}</h2>
+    <ol>
+    {% assign current_year = year %}
+  {% endif %}
+
+  <li>
+    {{ pub.title }}<br />
+    {% assign author_name = site.author.name %}
+    {% assign highlighted_authors = pub.authors %}
+    {% if author_name and highlighted_authors and highlighted_authors contains author_name %}
+      {% capture emphasized_name %}<em><strong>{{ author_name }}</strong></em>{% endcapture %}
+      {% assign highlighted_authors = highlighted_authors | replace: author_name, emphasized_name %}
+    {% endif %}
+    {% if highlighted_authors %}
+      {{ highlighted_authors }}
+    {% endif %}
+    <br />
+    {% assign venue_text = pub.venue %}
+    {% if venue_text %}
+      <em><strong>{{ venue_text }}</strong></em>
+    {% endif %}
+    {% if pub.arxiv or pub.codeurl %}
+      | 
+      {% if pub.arxiv %}<a href="{{ pub.arxiv }}">arXiv</a>{% endif %}
+      {% if pub.arxiv and pub.codeurl %} | {% endif %}
+      {% if pub.codeurl %}<a href="{{ pub.codeurl }}">Code</a>{% endif %}
+      
+    {% endif %}
+  </li>
+{% endfor %}
+
+{% if current_year != '' %}
+</ol>
+{% endif %}
+
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+{% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +73,4 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
-
-
-
+{% endif %} -->
