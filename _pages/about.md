@@ -7,28 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University.
+Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), supervised by [Professor Chenyang Lu](https://www.cse.wustl.edu/~lu). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University.
 
 <!-- Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), advised by [Prof. Jiaxin Huang](https://teapot123.github.io/). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University. -->
 
 # Research Interests
 
-My research interests broadly include Natural Language Processing (NLP) and Machine Learning, especially in Large Language Model (LLM) reasoning and alignment.
+My research interests center on AI for Health, with a particular focus on leveraging Large Language Models (LLMs) and Vision-Language Models (VLMs) to enable trustworthy clinical reasoning, risk prediction, and decision support.
 
 # News
+
+- 2026.04
+  &nbsp;- 🎉 One paper ["CURA: Clinical Uncertainty Risk Alignment for Language Model-Based Risk Prediction"](https://arxiv.org/abs/2604.14651) is accepted to ACL 2026 Main Conference.
 
 - 2025.08
   &nbsp;- 🎓 Starting my Ph.D. in Computer Science at Washington University in St. Louis.
 
 - 2025.05
   &nbsp;- 🎓 Awarded the M.S. in Computer Science by University of Southern California.  
-  &emsp;&emsp;&emsp;&emsp;&emsp;- 🎉 One paper [“ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework”](https://arxiv.org/abs/2410.19453) is accepted to ACL 2025.
+  &emsp;&emsp;&emsp;&emsp;&emsp;- 🎉 One paper [“ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework”](https://arxiv.org/abs/2410.19453) is accepted to ACL 2025 Main Conference.
 
 - 2025.01
-  &nbsp;- 🎉 One paper ["BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment"](https://arxiv.org/abs/2411.10914) is accepted to NAACL 2025.
+  &nbsp;- 🎉 One paper ["BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment"](https://arxiv.org/abs/2411.10914) is accepted to NAACL 2025 Main Conference.
 
 - 2024.05
-  &nbsp;- 🎉 One paper ["Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning"](https://arxiv.org/abs/2403.20046) is accepted to ACL 2024.
+  &nbsp;- 🎉 One paper ["Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning"](https://arxiv.org/abs/2403.20046) is accepted to ACL 2024 Main Conference.
 
 # 📖 Education
 
