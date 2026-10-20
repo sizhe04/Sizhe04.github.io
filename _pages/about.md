@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), supervised by [Professor Chenyang Lu](https://www.cse.wustl.edu/~lu). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University.
+Hi, I am currently a second-year PhD student at Washington University in St. Louis (WashU), supervised by [Professor Chenyang Lu](https://www.cse.wustl.edu/~lu). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University.
 
 <!-- Hi, I am currently a first-year PhD student at Washington University in St. Louis (WashU), advised by [Prof. Jiaxin Huang](https://teapot123.github.io/). Previously, I received my Master’s degree in Computer Science at the University of Southern California (USC). Prior to USC, I received my Bachelor’s degree in Physics at Sichuan University. -->
 
