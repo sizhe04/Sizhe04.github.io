@@ -28,12 +28,12 @@ repository: "sizhe04/sizhe04.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "Homepage.JPEG"
+  avatar: "crop-option-B-1500x1500.png"
   name: "Sizhe Wang"
   pronouns: # example: "she/her"
-  bio: "PhD student at Washington University in St. Louis."
+  bio: "PhD student at WashU."
   location: "St. Louis, MO"
-  employer: "WashU"
+  employer: "Washington University in St. Louis"
   uri: # URL
   email: "sizhew@wustl.edu"
 

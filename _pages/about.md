@@ -13,7 +13,7 @@ Hi, I am currently a first-year PhD student at Washington University in St. Loui
 
 # Research Interests
 
-My research interests center on AI for Health, with a particular focus on leveraging Large Language Models (LLMs) and Vision-Language Models (VLMs) to enable trustworthy clinical reasoning, risk prediction, and decision support.
+My research interests center on AI for Health, with a particular focus on leveraging Large Language Models (LLMs) and Vision-Language Models (VLMs) to enable trustworthy risk prediction, clinical reasoning, and decision support.
 
 # News
 
